@@ -1,0 +1,13 @@
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\bin\Debug\Very Very Boards.exe.config
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\bin\Debug\Very Very Boards.exe
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\bin\Debug\Very Very Boards.pdb
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\bin\Debug\Very Very Boards.xml
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\obj\Debug\Very Very Boards.vbproj.AssemblyReference.cache
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\obj\Debug\Very Very Boards.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\obj\Debug\Very_Very_Boards.Form1.resources
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\obj\Debug\Very_Very_Boards.Resources.resources
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\obj\Debug\Very Very Boards.vbproj.GenerateResource.cache
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\obj\Debug\Very Very Boards.vbproj.CoreCompileInputs.cache
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\obj\Debug\Very Very Boards.exe
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\obj\Debug\Very Very Boards.xml
+C:\Users\ervin\Desktop\XXX\CITY TECH\22 Spr\CST 4708 net frame work\Very Very Boards\Very Very Boards\obj\Debug\Very Very Boards.pdb
