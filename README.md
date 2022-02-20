@@ -1,5 +1,5 @@
 # VB-Very-Very-Board
-CST 4708 exercise to create a window forms application of snowboard rental
+CST 4708 exercise to create a window forms application of snowboard rental in Visual Basic
 
 Very Very Boards rents snowboards during the snow season.
 A person can rent a snowboard without boots or with boots. 
